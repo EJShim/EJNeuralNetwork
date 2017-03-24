@@ -1,1 +1,1 @@
-# EJNeuralNetwork
+# EJML
